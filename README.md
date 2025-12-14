@@ -98,7 +98,7 @@ npm run dev
 
 ---
 
-##🔗 API Connection
+### 🔗 API Connection
 
 The React frontend communicates with the Laravel backend using REST APIs.
 
@@ -108,7 +108,7 @@ const API_URL = "http://127.0.0.1:8000/api";
 ---
 
 
-##🔐 Environment Variables
+### 🔐 Environment Variables
 
 .env files are not included for security reasons.
 
@@ -116,19 +116,17 @@ Use .env.example to configure your environment.
 
 ---
 
-##🖼️ Screenshots
+### 🖼️ Screenshots
 
 ---
 
-##🚀 Future Improvements
+### 🚀 Future Improvements
 
 Authentication (Admin / User)
 
 Online payment integration
 
 Admin dashboard
-
-Advanced search and filtering
 
 Multi-language support
 
