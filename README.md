@@ -9,13 +9,21 @@ This project allows users to check car availability, view cars and prices, locat
 
 ## 📁 Project Structure
 app/
+
 bootstrap/
+
 client/ # React application
+
 config/
+
 database/
+
 public/
+
 resources/
+
 routes/
+
 storage/
 
 
@@ -79,19 +87,30 @@ npm install
 npm install bootstrap axios react-router-dom
 Start the React development server:
 npm run dev
+
+---
+
 ##🔗 API Connection
 
 The React frontend communicates with the Laravel backend using REST APIs.
 
 Make sure the API base URL is correctly configured in your React project (example):
 const API_URL = "http://127.0.0.1:8000/api";
+
+---
+
+
 ##🔐 Environment Variables
 
 .env files are not included for security reasons.
 
 Use .env.example to configure your environment.
 
+---
+
 ##🖼️ Screenshots
+
+---
 
 ##🚀 Future Improvements
 
