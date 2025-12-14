@@ -130,3 +130,13 @@ Admin dashboard
 
 Multi-language support
 
+
+## 🧑‍💻 Author
+
+**Abderrahim Elhasskouri**
+Digital Development Student – OFPPT
+
+---
+
+⭐ If you like this project, feel free to star the repository!
+
