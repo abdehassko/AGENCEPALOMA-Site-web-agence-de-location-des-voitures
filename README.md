@@ -73,19 +73,27 @@ storage/
 
 bash
 git clone https://github.com/abdehassko/AGENCEPALOMA-Site-web-agence-de-location-des-voitures.git
-cd car-rental-agency
+
 ### 🔧 Backend Setup (Laravel)
 composer install
+
 cp .env.example .env
+
 php artisan key:generate
+
 php artisan migrate
+
 php artisan serve
+
 🔸 Configure your database in the .env file before running migrations.
+
 ### 🎨 Frontend Setup (React)
 cd client
+
 npm install
+
 npm install bootstrap axios react-router-dom
-Start the React development server:
+
 npm run dev
 
 ---
