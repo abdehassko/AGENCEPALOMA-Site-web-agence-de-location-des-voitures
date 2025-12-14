@@ -66,32 +66,34 @@ storage/
 bash
 git clone https://github.com/abdehassko/AGENCEPALOMA-Site-web-agence-de-location-des-voitures.git
 cd car-rental-agency
-🔧 Backend Setup (Laravel)
+### 🔧 Backend Setup (Laravel)
 composer install
 cp .env.example .env
 php artisan key:generate
 php artisan migrate
 php artisan serve
 🔸 Configure your database in the .env file before running migrations.
-🎨 Frontend Setup (React)
+### 🎨 Frontend Setup (React)
 cd client
 npm install
 npm install bootstrap axios react-router-dom
 Start the React development server:
 npm run dev
-🔗 API Connection
+##🔗 API Connection
 
 The React frontend communicates with the Laravel backend using REST APIs.
 
 Make sure the API base URL is correctly configured in your React project (example):
 const API_URL = "http://127.0.0.1:8000/api";
-🔐 Environment Variables
+##🔐 Environment Variables
 
 .env files are not included for security reasons.
 
 Use .env.example to configure your environment.
 
-🚀 Future Improvements
+##🖼️ Screenshots
+
+##🚀 Future Improvements
 
 Authentication (Admin / User)
 
