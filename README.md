@@ -117,6 +117,13 @@ Use .env.example to configure your environment.
 ---
 
 ### 🖼️ Screenshots
+![Captures](https://github.com/user-attachments/assets/75e42a8c-196e-40f7-afd5-574dd6056509)
+![Captsure](https://github.com/user-attachments/assets/d7e9d22a-378b-4f25-b876-fa0d34b855f8)
+![Captusssre](https://github.com/user-attachments/assets/bafbe3d7-d0ae-4192-92df-5642f96ddf77)
+![Captssure](https://github.com/user-attachments/assets/05d28949-02fb-4b34-be88-e5750bfd9d4e)
+![Captuttre](https://github.com/user-attachments/assets/1e641f25-132c-4907-a2d7-3a64fbf68f3e)
+![Captusre](https://github.com/user-attachments/assets/83e515bb-213b-45e8-8316-879a0db884c3)
+![aCaptusre](https://github.com/user-attachments/assets/67c26818-3ad4-4c84-980a-fd52059480fc)
 
 ---
 
